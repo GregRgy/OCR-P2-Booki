@@ -93,7 +93,7 @@ h2{
     justify-content: space-between;
     padding: 3% 50% 2% 2%;
 }
-.filter-btn:visited, .filter-btn:link,.btn:active, .btn:focus{
+.filter-btn:visited, .filter-btn:link{
     text-decoration: none;
     color: black;
 }
@@ -108,7 +108,7 @@ h2{
     text-decoration: none;
     color: black;
 }
-.btn:hover{
+.btn:active, .btn:focus, .btn:hover{
     background-color: #DEEBFF;
 }
 .btn{
